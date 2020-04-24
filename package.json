@@ -1,0 +1,26 @@
+{
+  "name": "ajs-import-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ailis7/ajs-import-export.git"
+  },
+  "author": "Ailis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ailis7/ajs-import-export/issues"
+  },
+  "homepage": "https://github.com/Ailis7/ajs-import-export#readme",
+  "devDependencies": {
+    "babel-loader": "^8.1.0",
+    "html-webpack-plugin": "^4.2.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
